@@ -1,0 +1,10 @@
+https://www.hackster.io/najad/controlling-rgb-lights-from-esp32-web-server-f93620?f=1
+https://diyusthad.com/2019/10/controlling-rgb-lights-from-esp32-web-server.html#google_vignette
+https://diyusthad.com/2019/08/12v-rgb-led-with-arduino.html
+https://duckduckgo.com/?q=wled+esp32+wiring&iax=images&ia=images&iai=https%3A%2F%2Flastminuteengineers.com%2Fwp-content%2Fuploads%2Fiot%2FConnecting-WS2812B-Addressable-LED-Strip-to-ESP32-5V-External-Power.png
+https://github.com/BrainSmash/Arduino-Acoustic-Control-for-RGB-LED-Strip/blob/master/BrainSmash_AcousticControlForRGBLEDStrips_6_2019.ino
+https://randomnerdtutorials.com/micropython-ws2812b-addressable-rgb-leds-neopixel-esp32-esp8266/
+https://randomnerdtutorials.com/esp32-web-server-slider-pwm/
+https://randomnerdtutorials.com/esp32-esp8266-rgb-led-strip-web-server/
+https://randomnerdtutorials.com/esp32-web-server-websocket-sliders/
+https://www.youtube.com/watch?v=G-zCNkNp4RY
